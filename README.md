@@ -3,7 +3,8 @@
 To build a classification methodology to determine whether a person defaults the credit card payment for the next month. 
 
 ### Architecture
-  
+![img](https://github.com/shivanshka/Credit_Card_Defaulters/blob/master/architecture.jpg?raw=true)
+
 ### Data Description
 The client will send data in multiple sets of files in batches at a given location. The data has been extracted from the census bureau. 
 The data contains 32561 instances with the following attributes:
